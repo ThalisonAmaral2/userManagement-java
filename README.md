@@ -2,6 +2,7 @@
 Java experimental project with a simple Database creation from scratch and CRUD operations.
 
 ## Installation
+Make sure you have Java 17 installed
 ### Clone the repository
 ```
 git clone https://github.com/ThalisonAmaral2/userManagement-java
